@@ -1,0 +1,25 @@
+{
+  "name": "js-load-script",
+  "version": "1.0.0",
+  "description": "Async load javascript into your app using Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavex/js-load-script.git"
+  },
+  "keywords": [
+    "javascript",
+    "load",
+    "async",
+    "promise"
+  ],
+  "author": "Pavel Macháček <pavex@ines.cz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavex/js-load-script/issues"
+  },
+  "homepage": "https://github.com/pavex/js-load-script#readme"
+}
